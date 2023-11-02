@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labrunhosarodrigues
-- 👀 I’m interested in Signal Processing, Time-Series Analysis and Machine Learning
-- 🌱 I’m currently working on my PhD in Electrical and computers Enginnering, focusing on those topics!
+- 👀 I’m interested in Time-Series Analysis and Machine/Deep Learning and knowledge representation.
+- 🌱 I’m currently working on my PhD @ Cognitive Science Lab - University of Bremen, focusing on those topics!
 - 📫 How to reach me labrunhosarodrigues@gmail.com
 
 <!---
